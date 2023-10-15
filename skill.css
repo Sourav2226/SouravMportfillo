@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+    background-color: black;
+}
+
+body{
+    color: #fff;
+    padding: 50px 100px;
+    line-height: 35px;
+    color: #0ef;
+
+}
+.skill{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    justify-content: space-between;
+}
+.box{
+    height: max-content;
+    width: 250px;
+    background-color:rgb(246, 42, 240);
+    
+  
+}
+h1{
+    text-align: center;
+    padding: 50px 0;
+    
+}
+.box h2{
+    background: none;
+  color: black;
+  text-align: center;
+    
+}
+.box ul{
+   padding-left: 30px;
+  
+  
+}
